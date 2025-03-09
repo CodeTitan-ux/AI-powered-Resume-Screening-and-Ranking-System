@@ -60,6 +60,18 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 ## Contact
 For any issues or contributions, reach out via GitHub issues.
 
+---------------------------------------------------------------------------------------
 
+# Details
 
- 
+Date: 09/02/2025
+
+Name: Mr. Aman Subhash Jambhulkar
+
+AICTE Student ID: STU66c049f07aac21723877872
+
+AICTE Internship ID: INTERNSHIP_1736316743677e1747e0671
+
+Internship : AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies.
+
+Duration : 6 Weeks
